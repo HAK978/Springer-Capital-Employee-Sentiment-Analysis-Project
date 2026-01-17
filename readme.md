@@ -134,6 +134,6 @@ The following files are included in the final submission ZIP:
 
 ## 📬 Contact
 
-For any questions, contact: \Harsh Kute | \[[your.email@example.com](mailto:harshavinashkute@gmail.com)]
+For any questions, contact: \Harsh Kute | \[[harshavinashkute@gmail.com](mailto:harshavinashkute@gmail.com)]
 
 ---
